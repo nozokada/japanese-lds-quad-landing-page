@@ -36,19 +36,19 @@ features                                  :
 
   - title                                 : All in One
     description                           : All Japanese LDS standard works and the Hymns
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : books
 
-  - title                                 : Japanese and English Side by Side
-    description                           : Turn on English text only when you need it
-    fontawesome_icon_name                 : magic
+  - title                                 : Bilingual Support
+    description                           : Show Japanese only or Japanese and English side by side
+    fontawesome_icon_name                 : language
 
   - title                                 : Blazing Fast Search
     description                           : Search for a word or phrase in Japanese or English and get results less than a second.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : search
 
   - title                                 : Easy Bookmarks
     description                           : Just tap once to bookmark a verse and get quick access for the future
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : bookmark
 
 
 
