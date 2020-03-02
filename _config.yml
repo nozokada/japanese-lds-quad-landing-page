@@ -34,7 +34,7 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : All in One App
+  - title                                 : All-in-One App
     description                           : All Japanese LDS standard works and the Hymns are included
     fontawesome_icon_name                 : book
 
