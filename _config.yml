@@ -36,7 +36,7 @@ features                                  :
 
   - title                                 : All in One
     description                           : All Japanese LDS standard works and the Hymns
-    fontawesome_icon_name                 : books
+    fontawesome_icon_name                 : book
 
   - title                                 : Bilingual Support
     description                           : Show Japanese only or Japanese and English side by side
