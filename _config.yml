@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : All in One
-    description                           : All Japanese LDS standard works and the Hymns
+    description                           : All Japanese LDS standard works and the Hymns are included
     fontawesome_icon_name                 : book
 
   - title                                 : Bilingual Support
@@ -43,12 +43,20 @@ features                                  :
     fontawesome_icon_name                 : language
 
   - title                                 : Blazing Fast Search
-    description                           : Search for a word or phrase in Japanese or English and get results less than a second.
+    description                           : Search for a word or phrase in Japanese or English and get results less than a second
     fontawesome_icon_name                 : search
 
   - title                                 : Easy Bookmarks
     description                           : Just tap once to bookmark a verse and get quick access for the future
     fontawesome_icon_name                 : bookmark
+
+  - title                                 : Highlights and Notes
+    description                           : Highlight verses and write down your thoughts that you don't want to forget
+    fontawesome_icon_name                 : highlighter
+
+  - title                                 : Text-to-Speech Support
+    description                           : Let the app read the scriptures at your favorite speed
+    fontawesome_icon_name                 : file-audio
 
 
 
