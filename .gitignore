@@ -1,4 +1,9 @@
+.DS_Store
+
+.idea
+
 .bundle
 .sass-cache
 _site
 Gemfile.lock
+
