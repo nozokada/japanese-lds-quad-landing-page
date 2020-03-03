@@ -5,7 +5,7 @@ page_title                                :                                     
 ios_app_id                                : 1178952951                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            :                                           # Enter Google Play Store URL.
+playstore_link                            : https://play.google.com/store/apps/details?id=com.nozokada.JapaneseLDSQuad # Enter Google Play Store URL.
 presskit_download_link                    : https://nozokada.github.io                # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
@@ -51,11 +51,11 @@ features                                  :
     fontawesome_icon_name                 : bookmark
 
   - title                                 : Highlights and Notes
-    description                           : Highlight verses and write down your thoughts that you don't want to forget
+    description                           : Highlight verses and write down your thoughts that you don't want to forget (iOS only)
     fontawesome_icon_name                 : highlighter
 
   - title                                 : Text-to-Speech Support
-    description                           : Let the app read the scriptures at your favorite speed
+    description                           : Let the app read the scriptures at your favorite speed (iOS only)
     fontawesome_icon_name                 : file-audio
 
 
