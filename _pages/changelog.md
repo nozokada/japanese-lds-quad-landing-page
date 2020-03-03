@@ -5,30 +5,118 @@ include_in_header: true
 ---
 
 # Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
 
 <br>
 
 ### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+# **Version 3.0**
+We made major UI changes and improvements.
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+- Added the tabs to the search page to filter results for each book
+
+<br>
+
+### **Version 3.1**
+
+#### What's New
+- Added pinch-to-zoom functionality
+
+<br>
+
+### **Version 3.2**
+
+#### What's New
+- Added new paid features such as Japanese/English Side by Side, Passage Lookup, Highlights, and Text-to-Speech
+
+<br>
+
+### **Version 3.3**
+
+#### What's New
+- Added Copy Verse (no ruby) as a paid feature
 
 #### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+- Fixed some pronunciation issues for the Text-to-Speech feature
+
+<br>
+
+### **Version 3.4**
+
+#### What's New
+- Restored the "Look Up" button in the context menu
+
+#### Bug Fixes
+- Fixed some typos in the scriptures
+
+<br>
+
+### **Version 3.5**
+
+#### What's New
+- Added links to Bible verses in Bible Dictionary as a paid feature
+
+#### Bug Fixes
+- Fixed margin issues on the iPad
+- Fixed some typos in the scriptures
+
+<br>
+
+### **Version 3.6**
+
+#### Bug Fixes
+- Fixed some typos in the scriptures
+
+<br>
+
+### **Version 3.7**
+
+#### What's New
+- Added Joseph Smith Translation to Study Helps as a paid feature
+
+<br>
+
+
+________
+<br>
+
+# **Version 2.0**
+This is the first major update to our app to add bilingual support.
+
+#### What's New
+- Added English text of the Holy Bible, Book of Mormon, Doctrine and Covenants, Pearl of Great Price
+- Added the switch at the top right corner to show and hide English text
 
 <br>
 
 ### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- Optimized for the iPad 
+- Added English (U.S.) hymns corresponding to Japanese hymns
+- Added a zoom in/out button at the bottom right corner of screen
+Added settings menu which pops over when the cog icon on the bottom left of screen is tapped
+
+<br>
+
+### **Version 2.2**
+
+#### What's New
+- Added the Home button that takes the user straight back to the top page
+- Moved the English on/off switch to the bottom center of screen
+- Moved the cog icon for the settings menu to the top right of screen
+- Added the pop-up settings menu
+- Added more English text to the Book of Mormon, Doctrine and Covenants, and Pearl of Great Price
+
+<br>
+
+### **Version 2.3**
+
+#### What's New
+- Added the bookmark feature
+
+#### Bug Fixes
+- Fixed some typos in the scriptures
 
 <br>
 
@@ -37,29 +125,5 @@ ________
 
 ### `Initial Release`
 # **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
-
-<br>
-
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
 
 <br>
