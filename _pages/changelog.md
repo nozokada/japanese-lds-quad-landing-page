@@ -10,29 +10,28 @@ include_in_header: true
 
 ### `Latest`
 # **Version 3.0**
-We made major UI changes and improvements.
-
+Jul 3, 2017
 #### What's New
 - Added the tabs to the search page to filter results for each book
 
 <br>
 
 ### **Version 3.1**
-
+Oct 3, 2017
 #### What's New
 - Added pinch-to-zoom functionality
 
 <br>
 
 ### **Version 3.2**
-
+Aug 30, 2018
 #### What's New
 - Added new paid features such as Japanese/English Side by Side, Passage Lookup, Highlights, and Text-to-Speech
 
 <br>
 
 ### **Version 3.3**
-
+Sep 10, 2018
 #### What's New
 - Added Copy Verse (no ruby) as a paid feature
 
@@ -42,7 +41,7 @@ We made major UI changes and improvements.
 <br>
 
 ### **Version 3.4**
-
+Oct 11, 2018
 #### What's New
 - Restored the "Look Up" button in the context menu
 
@@ -52,7 +51,7 @@ We made major UI changes and improvements.
 <br>
 
 ### **Version 3.5**
-
+Feb 13, 2019
 #### What's New
 - Added links to Bible verses in Bible Dictionary as a paid feature
 
@@ -63,14 +62,14 @@ We made major UI changes and improvements.
 <br>
 
 ### **Version 3.6**
-
+Feb 17, 2019
 #### Bug Fixes
 - Fixed some typos in the scriptures
 
 <br>
 
 ### **Version 3.7**
-
+Mar 9, 2019
 #### What's New
 - Added Joseph Smith Translation to Study Helps as a paid feature
 
@@ -81,8 +80,7 @@ ________
 <br>
 
 # **Version 2.0**
-This is the first major update to our app to add bilingual support.
-
+Apr 4, 2017
 #### What's New
 - Added English text of the Holy Bible, Book of Mormon, Doctrine and Covenants, Pearl of Great Price
 - Added the switch at the top right corner to show and hide English text
@@ -90,7 +88,7 @@ This is the first major update to our app to add bilingual support.
 <br>
 
 ### **Version 2.1**
-
+Apr 13, 2017
 #### What's New
 - Optimized for the iPad 
 - Added English (U.S.) hymns corresponding to Japanese hymns
@@ -100,7 +98,7 @@ Added settings menu which pops over when the cog icon on the bottom left of scre
 <br>
 
 ### **Version 2.2**
-
+Apr 25, 2017
 #### What's New
 - Added the Home button that takes the user straight back to the top page
 - Moved the English on/off switch to the bottom center of screen
@@ -111,7 +109,7 @@ Added settings menu which pops over when the cog icon on the bottom left of scre
 <br>
 
 ### **Version 2.3**
-
+Jun 6, 2017
 #### What's New
 - Added the bookmark feature
 
@@ -125,5 +123,6 @@ ________
 
 ### `Initial Release`
 # **Version 1.0**
+Nov 28, 2016
 
 <br>
