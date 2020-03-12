@@ -18,8 +18,8 @@ Mar 10, 2020
 
 
 ________
+<br>
 
-### `Latest`
 # **Version 3.0**
 Jul 3, 2017
 #### What's New
