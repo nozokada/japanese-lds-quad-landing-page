@@ -6,6 +6,8 @@ include_in_header: true
 
 # Changelog
 
+<br>
+
 ### `Latest`
 # **Version 4.0**
 Mar 10, 2020
