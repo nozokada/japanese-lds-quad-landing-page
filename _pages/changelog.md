@@ -6,7 +6,18 @@ include_in_header: true
 
 # Changelog
 
+### `Latest`
+# **Version 4.0**
+Mar 10, 2020
+#### What's New
+- Major UI Improvements
+- Added highlights search feature
+- Added text-to-speech speed control
+
 <br>
+
+
+________
 
 ### `Latest`
 # **Version 3.0**
@@ -26,7 +37,7 @@ Oct 3, 2017
 ### **Version 3.2**
 Aug 30, 2018
 #### What's New
-- Added new paid features such as Japanese/English Side by Side, Passage Lookup, Highlights, and Text-to-Speech
+- Added new paid features such as Japanese/English side by side, passage lookup, highlights, and text-to-speech
 
 <br>
 
@@ -36,7 +47,7 @@ Sep 10, 2018
 - Added Copy Verse (no ruby) as a paid feature
 
 #### Bug Fixes
-- Fixed some pronunciation issues for the Text-to-Speech feature
+- Fixed some pronunciation for the text-to-speech feature
 
 <br>
 
