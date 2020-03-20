@@ -18,6 +18,12 @@ Mar 10, 2020
 
 <br>
 
+### **Version 4.1**
+Mar 19, 2020
+#### What's New
+- Fixed some typos
+
+<br>
 
 ________
 <br>
