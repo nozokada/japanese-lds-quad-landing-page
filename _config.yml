@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : book
 
   - title                                 : Bilingual Support
-    description                           : Show Japanese only or Japanese and English side by side
+    description                           : Read the scriptures in Japanese only or Japanese and English side by side
     fontawesome_icon_name                 : language
 
   - title                                 : Blazing Fast Search
