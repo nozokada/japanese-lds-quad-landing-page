@@ -19,7 +19,7 @@ For a better experience while using our Service, we may require you to provide u
 
 The information that we request will be retained by us and used as described in this privacy policy.
 
-The app does use the tool Google Firebase that may collect information used to identify you. Google Firebase is a real-time database offered by Google LLC. The privacy policy for Firebase is available at https://firebase.google.com/support/privacy.
+The app does use the tool Google Firebase that may collect information used to identify you. Google Firebase is a real-time database offered by Google LLC. The privacy policy for Firebase is available at [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy).
 
 ## Changes to This Privacy Policy
 We may update our privacy policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new privacy policy on this page. These changes are effective immediately, after they are posted on this page.
@@ -41,7 +41,7 @@ ________
 
 提供された情報は、本プライバシポリシーに従って使用されます。
 
-本アプリではGoogle Firebaseを使用しており、利用者を特定する情報を取得する場合があります。Google FirebaseはGoogle社が提供するリアルタイムデータベースです。Firebaseのプライバシーポリシーは、https://firebase.google.com/support/privacy?hl=jaでご確認ください。
+本アプリではGoogle Firebaseを使用しており、利用者を特定する情報を取得する場合があります。Google FirebaseはGoogle社が提供するリアルタイムデータベースです。Firebaseのプライバシーポリシーは、[https://firebase.google.com/support/privacy?hl=ja](https://firebase.google.com/support/privacy?hl=ja)でご確認ください。
 
 ## プライバシーポリシーの改定
 本プライバシーポリシーは、改定されることがあります。したがって、定期的に改定の確認を行うことをおすすめします。このページでの新しいプライバシーポリシーの記載が、利用者への改定の通知とします。これらの改定の効力は、記載された時点から生じるものとします。
