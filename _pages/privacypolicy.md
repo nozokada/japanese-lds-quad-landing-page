@@ -29,6 +29,10 @@ If you have any questions or suggestions about our privacy policy, do not hesita
 
 ________
 
+
+**最終更新日**  
+2020年5月10日
+
 # プライバシーポリシー
 末日聖徒合本（以下「本アプリ」といいます）は、Nozomi Okadaによりフリーミアムアプリとして作成されました。本アプリに関するサービス（以下「本サービスといいます）は、Nozomi Okadaにより現状のまま提供され、一切の保証を伴いません。
 
