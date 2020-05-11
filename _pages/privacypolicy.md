@@ -10,12 +10,12 @@ May 10 2020
 # Privacy Policy
 Nozomi Okada built the Japanese LDS Quad app as a freemium app. This service is provided by Nozomi Okada and is intended for use as is.
 
-This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of personal information if anyone decided to use our Service.
+This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of personal information if anyone decided to use our service.
 
-If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this privacy policy.
+If you choose to use our service, then you agree to the collection and use of information in relation with this policy. The personal information that we collect are used for providing and improving the service. We will not use or share your information with anyone except as described in this privacy policy.
 
 ## Information Collection and Use
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name and e-mail address. 
+For a better experience while using our service, we may require you to provide us with certain personally identifiable information, including but not limited to users name and e-mail address. 
 
 The information that we request will be retained by us and used as described in this privacy policy.
 
