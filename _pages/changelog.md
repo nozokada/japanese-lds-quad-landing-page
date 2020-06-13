@@ -9,6 +9,16 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **Version 5.0**
+Jun 8, 2020
+#### What's New
+- Added bookmarks and highlight sync
+
+<br>
+
+________
+<br>
+
 # **Version 4.0**
 Mar 10, 2020
 #### What's New
