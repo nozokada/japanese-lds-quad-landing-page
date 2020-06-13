@@ -12,7 +12,7 @@ include_in_header: true
 # **Version 5.0**
 Jun 8, 2020
 #### What's New
-- Added bookmarks and highlight sync
+- Added bookmarks and highlights sync
 
 <br>
 
