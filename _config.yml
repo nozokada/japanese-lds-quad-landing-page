@@ -39,15 +39,15 @@ features                                  :
     fontawesome_icon_name                 : book
 
   - title                                 : Bilingual Support
-    description                           : Read the scriptures in Japanese only or Japanese and English side by side
+    description                           : Read the scriptures in Japanese and English side by side
     fontawesome_icon_name                 : language
 
   - title                                 : Blazing Fast Search
-    description                           : Search for a word or phrase in Japanese or English and get results less than a second
+    description                           : Search for a phrase in Japanese or English and get results less than a second
     fontawesome_icon_name                 : search
 
   - title                                 : Easy Bookmarks
-    description                           : Just tap a verse only once to get quick access for future rerference
+    description                           : Just tap a verse to get quick access for future rerference
     fontawesome_icon_name                 : bookmark
 
   - title                                 : Highlights and Notes
@@ -55,7 +55,7 @@ features                                  :
     fontawesome_icon_name                 : highlighter
 
   - title                                 : Text-to-Speech Support
-    description                           : Let the app read the scriptures at your favorite speed (iOS only)
+    description                           : Let the app read the scriptures out loud at your favorite speed (iOS only)
     fontawesome_icon_name                 : file-audio
 
 
