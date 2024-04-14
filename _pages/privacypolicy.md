@@ -5,50 +5,46 @@ include_in_header: false
 ---
 
 **Last updated**  
-May 11 2020
+April 14 2024
 
 # Privacy Policy
-Nozomi Okada built the Japanese LDS Quad app as a freemium app. This service is provided by Nozomi Okada and is intended for use as is.
+Nozomi Okada offers the Japanese LDS Quad app as a freemium service, provided as is.
 
-This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of personal information if anyone decided to use our service.
+This privacy policy is intended to inform you about the collection, use, and disclosure of personal information when you use our service.
 
-If you choose to use our service, then you agree to the collection and use of information in relation with this policy. The personal information that we collect are used for providing and improving the service. We will not use or share your information with anyone except as described in this privacy policy.
+By using our service, you agree to the collection and use of information as described in this policy. We do not share your information with anyone except as outlined in this policy.
 
 ## Information Collection and Use
-For a better experience while using our service, we may require you to provide us with certain personally identifiable information, including but not limited to username and e-mail address. 
+To enhance your experience with our service, we may ask you to provide certain personally identifiable information, such as your username and email address (iOS version only as of April 2024). This information is retained and used solely for the purpose of providing and improving our service.
 
-The information that we request will be retained by us and used as described in this privacy policy.
-
-The app does use the tool Google Firebase that may collect information used to identify you. Google Firebase is a real-time database offered by Google LLC. The privacy policy for Firebase is available at [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy).
+The iOS version of the app utilizes Google Firebase, a real-time database service provided by Google LLC, which may collect information to identify you. Please refer to Firebase's privacy policy at [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy) for more information.
 
 ## Changes to This Privacy Policy
-We may update our privacy policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new privacy policy on this page. These changes are effective immediately, after they are posted on this page.
+We may update this privacy policy periodically. We advise you to review this page regularly for any changes. Changes to this policy are effective immediately upon posting on this page.
 
 ## Contact Us
-If you have any questions or suggestions about our privacy policy, do not hesitate to contact us at [nozokada@gmail.com](mailto:nozokada@gmail.com).
+If you have any questions or suggestions regarding our privacy policy, please don't hesitate to contact us at [nozokada@gmail.com](mailto:nozokada@gmail.com).
 
 ________
 
 
 **最終更新日**  
-2020年5月11日
+2024年4月14日
 
 # プライバシーポリシー
-末日聖徒合本（以下「本アプリ」といいます）は、Nozomi Okadaによりフリーミアムアプリとして作成されました。本アプリに関するサービス（以下「本サービスといいます）は、Nozomi Okadaにより現状のまま提供され、一切の保証を伴いません。
+末日聖徒合本（以下「本アプリ」といいます）は、Nozomi Okadaによりフリーミアムアプリとして提供されています。本アプリに関するサービス（以下「本サービスといいます）は、現状のまま提供されています。
 
-このページは、ご利用になる皆様（以下「利用者」といいます）の個人情報の取得、利用、開示に関する方針を閲覧者の方々に通知するためのものです。
+このプライバシーポリシーは、ご利用になる皆様（以下「利用者」といいます）の個人情報の収集、使用、開示についてお知らせするものです。
 
-利用者は本サービスを利用した時点で、情報の取得と利用についての本プライバシーポリシーに同意したものとみなされます。取得された個人情報は、本サービスの提供と品質向上のために利用されます。本プライバシーポリシーに記載されていない第三者に利用者の情報を提供することはありません。
+利用者は本サービスを利用することで、本ポリシーに記載されている情報の収集と使用に同意するものとします。本ポリシーに記載されていない第三者に利用者の情報を提供することはありません。
 
 ## 取得情報および利用目的
-本サービスのさらなる品質向上のために、利用者のユーザー名、Eメールアドレスなどを含む特定の個人情報を提供するように要求する場合があります。
+本サービスのさらなる品質向上のために、ユーザー名やEメールアドレスなどの特定の個人情報を提供していただく場合があります（2024年4月時点でiOS版のみ）。この情報は、本サービスの提供と改善のためにのみ保持され、使用されます。
 
-提供された情報は、本プライバシポリシーに従って利用されます。
-
-本アプリではGoogle Firebaseを使用しており、個人を特定できる情報を取得する場合があります。Google FirebaseはGoogle社が提供するリアルタイムデータベースです。Firebaseのプライバシーポリシーは、[https://firebase.google.com/support/privacy?hl=ja](https://firebase.google.com/support/privacy?hl=ja)でご確認ください。
+本アプリのiOS版は、Google LLCが提供するリアルタイムデータベースサービスであるGoogle Firebaseを利用しており、個人を特定する情報を収集する場合があります。詳細については、Firebaseのプライバシーポリシー[https://firebase.google.com/support/privacy?hl=ja](https://firebase.google.com/support/privacy?hl=ja)をご確認ください。
 
 ## プライバシーポリシーの改定
-本プライバシーポリシーは、改定されることがあります。したがって、定期的に改定の確認を行うことをおすすめします。このページへの新しいプライバシーポリシーの記載を利用者への改定の通知とします。改定の効力は、このページに記載された時点から生じるものとします。
+本プライバシーポリシーは、改定されることがあります。改定があった場合は、このページに掲載された時点で即時に有効となりますので、定期的にご確認いただくことをお勧めします。
 
 ## お問い合わせ
-本プライバシーポリシーについて不明な点がございましたら、[nozokada@gmail.com](mailto:nozokada@gmail.com)までお問い合わせください。
+本プライバシーポリシーに関するご質問や提案がございましたら、お気軽に[nozokada@gmail.com](mailto:nozokada@gmail.com)までお問い合わせください。
